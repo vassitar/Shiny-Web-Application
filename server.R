@@ -72,7 +72,7 @@ shinyServer(function(input, output, session) {
     
     button <- reactiveValues(click = NULL) 
     
-    # Reset the click button plot panel when input$parameter is changed:
+    # Reset the click button when input$parameter is changed:
     observeEvent(eventExpr = input$parameter, handlerExpr = {
         
         button$click <- NULL
