@@ -1,4 +1,4 @@
-# Shiny Web Application
+# Shiny Web Application: Statistical Data on the European Union Countries
 
 - The web application shows statistical data about the countries in the European Union together with Norway, Switzerland, Iceland and Liechtenstein, which are either members of the European Free Trade Association (EFTA) or the Schengen Area
 
